@@ -13,7 +13,7 @@ Descripción
 -----------------------------------------------------------------------------------------------------------
 El presente proyecto simula un sistema de gestión de biblioteca que le permite al cliente administrar usuarios y materiales bibliograficos en una biblioteca. El programa ofrece las siguientes opciones: buscar, agregar, prestar y devolver materiales y finalmente gestionar usuarios.
 -----------------------------------------------------------------------------------------------------------
-Arquitectura del proyecto
+## Arquitectura del proyecto
 -----------------------------------------------------------------------------------------------------------
 Usuarios.txt y Materiales.txt: Archivos de almacenamiento y persistencia de datos, donde se guarda la información de usuarios y materiales (libros o revistas) respectivamente. Cada archivo tiene un formato específico para cada tipo de dato.
 ``` Usuario.h ``` y ``` Usuario.cpp ```: Archivo header e implementación que definen la clase Usuario, representando a un usuario dentro del sistema.
