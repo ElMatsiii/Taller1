@@ -16,7 +16,7 @@ El presente proyecto simula un sistema de gestión de biblioteca que le permite 
 Arquitectura del proyecto
 -----------------------------------------------------------------------------------------------------------
 Usuarios.txt y Materiales.txt: Archivos de almacenamiento y persistencia de datos, donde se guarda la información de usuarios y materiales (libros o revistas) respectivamente. Cada archivo tiene un formato específico para cada tipo de dato.
-Usuario.h y Usuario.cpp: Archivo header e implementación que definen la clase Usuario, representando a un usuario dentro del sistema.
+``` Usuario.h ``` y ``` Usuario.cpp ```: Archivo header e implementación que definen la clase Usuario, representando a un usuario dentro del sistema.
 MaterialBibliografico.h y MaterialBibliografico.cpp: Archivo header e implementación que definen la clase MaterialBibliografico, la cual sirve como base para representar materiales del sistema, como libros y revistas.
 Libro.h y Libro.cpp: Archivo header e implementación que definen la clase Libro, una clase que hereda de MaterialBibliografico y representa a un libro.
 Revista.h y Revista.cpp: Archivo header e implementación que definen la clase Revista, que también hereda de MaterialBibliografico y representa a una revista.
@@ -25,8 +25,8 @@ Main.cpp: Archivo principal encargado de ejecutar el sistema, donde se inicializ
 -----------------------------------------------------------------------------------------------------------
 Instrucciones de uso
 -----------------------------------------------------------------------------------------------------------
-Compilar el proyecto -> g++ -g -o main .\MaterialBibliografico.cpp .\Revista.cpp .\Libro.cpp .\Usuario.cpp .\Impresora.cpp .\Sistema.cpp .\Main.cpp
-ejecutar el archivo -> main.exe
+Compilar el proyecto -> ``` g++ -g -o main .\MaterialBibliografico.cpp .\Revista.cpp .\Libro.cpp .\Usuario.cpp .\Impresora.cpp .\Sistema.cpp .\Main.cpp ```
+ejecutar el archivo -> ``` main.exe ```
 -----------------------------------------------------------------------------------------------------------
 Funcionalidades
 -----------------------------------------------------------------------------------------------------------
