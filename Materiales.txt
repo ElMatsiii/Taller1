@@ -1,0 +1,5 @@
+cien anos de soledad,978-3-16-148410-0,gabriel garcia marquez,si,1967,una obra maestra del realismo magico que narra la historia de la familia buendia en el pueblo ficticio de macondo,libro
+national geographic,978-0-123-45678-9,varios,si,150,mayo 2024,revista
+don quijote de la mancha,978-0-12-345678-9,miguel de cervantes,si,1605,las aventuras del ingenioso hidalgo don quijote y su fiel escudero sancho panza,libro
+revista cientifica de fisica,978-4-15-678901-2,varios,si,45,septiembre 2023,revista
+el amor en los tiempos del colera,978-1-23-456789-0,gabriel garcia marquez,no,1985,una historia de amor que trasciende el tiempo y las dificultades ambientada en el caribe colombiano,libro
